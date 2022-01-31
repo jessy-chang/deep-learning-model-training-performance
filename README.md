@@ -1,4 +1,4 @@
-# Deep Learning Model Training Time and Operational Performance
+# Deep Learning Model Training Time and Performance
 
 ## Abstract
 This research serves the purpose of understanding deep learning model training time and operational performance across alternative hardware and software platforms. A nested 2x2 experimental design is used to compare the impact on performance using Keras in Python and R, as well as using different central processing units (CPU) in Macintosh operating system (macOS). The experiments are then each employed using one computer vision dataset and one text classification dataset. Overall, the 8-core processor shows much stronger computing power than the dual-core processor, with significant lower processing time in both datasets. On the other hand, R on average processes faster than Python. However, although Python appears to take longer to process, networks employed in Python show high accuracies than networks employed in R. Results indicate that processors have minimal impact on network accuracy.
