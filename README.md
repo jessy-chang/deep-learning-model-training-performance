@@ -61,3 +61,30 @@ In terms of network accuracies, the two different processors perform very simila
 
 ## Conclusions
 Hardware capacity is one of the most important factors when constructing deep learning models, as many of these networks are compute-intensive. When models become more complex, having sufficient hardware computing power will be one of the key factors in the success of constructing a model. However, software platforms are also important in delivering high performing models. Despite using same Keras API, Python appears to achieve higher accuracy than R. In conclusion, the machine with 2.3 GHz 8-Core Intel Core i9 processor shows significant higher computing power than the machine with 2.3 GHz 8-Core Intel Core i9 processor. And R seems to process faster than Python, though Python shows an overall higher accuracy performance.
+
+
+## License 
+I am providing code and resources in this repository to you under an open source license. Because this is my personal repository, the license you receive to my code and resources is from me and not my employer.
+```
+MIT License
+
+Copyright (c) 2022 Jessy Chang
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
